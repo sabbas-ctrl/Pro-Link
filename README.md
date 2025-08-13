@@ -55,8 +55,8 @@ src/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/online-business-card.git
-cd online-business-card
+git clone https://github.com/sabbas-ctrl/Pro-Link
+cd Pro-Link
 ```
 
 ### 2️⃣ Install dependencies
@@ -137,6 +137,6 @@ npm run dev
 
 ---
 
-
-<!-- SEO Keywords: online business card maker, digital visiting card generator, react firebase project, share business card via link, customizable business card app, create QR code business card, free digital business card builder, online contact card creator, social media integrated business card, responsive virtual business card design -->
+## 🔍 Keywords
+`online business card maker` &nbsp; `digital visiting card generator` &nbsp; `react firebase project` &nbsp; `share business card via link` &nbsp; `customizable business card app` &nbsp; `create QR code business card`
 
