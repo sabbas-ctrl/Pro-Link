@@ -1,4 +1,5 @@
 import React from 'react'
+import { FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaWhatsapp, FaEnvelope, FaYoutube, FaTiktok } from 'react-icons/fa'
 const Icon = ({ type, size=18 }) => {
   switch(type){
     case 'linkedin': return <FaLinkedin size={size} />
@@ -46,7 +47,7 @@ export default function CardPreview({card, previewMode='light'}){
         </div>
 
         <div className="mt-4 text-center">
-          <QRCode value={publicUrl} size={96} />
+          {/* <QRCode value={publicUrl} size={96} /> */}
         </div>
       </div>
     </div>
